@@ -1,0 +1,22 @@
+.edu-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100hv;
+    gap: 2rem;
+}
+
+.education{
+    max-width: 400px;
+    max-height: 100%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #83b1c3;
+    flex: 1;
+}
+
+.edu-level{
+    font-size: 20px;
+    font-weight: bold;
+}
